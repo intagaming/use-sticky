@@ -1,8 +1,5 @@
 {
   "name": "@intagaming/use-sticky",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/intagaming"
-  },
   "version": "1.0.0",
   "description": "",
   "scripts": {

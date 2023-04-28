@@ -74,4 +74,4 @@ const useSticky = () => {
   };
 };
 
-export default useSticky;
+export { useSticky };
